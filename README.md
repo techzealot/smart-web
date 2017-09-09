@@ -1,5 +1,7 @@
 # SmartWeb
 
+[![Travis](https://www.travis-ci.org/techzealot/smart-web.svg?branch=master)](https://www.travis-ci.org/techzealot/smart-web) 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
 ## Development server
